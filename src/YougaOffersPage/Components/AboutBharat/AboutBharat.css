@@ -1,0 +1,20 @@
+.about-bharat-container {
+  background-color: #e7e7e7;
+}
+.about-bharat-text {
+  font-size: 40px;
+  color: #1d1d1d;
+}
+.name {
+  color: #f24396;
+}
+.bharatThakurDescrip {
+  color: #1d1d1d;
+  font-size: 20px;
+}
+
+@media (min-width: 350px) and (max-width: 1199.98px) {
+  .about-bharat-text {
+    text-align: center;
+  }
+}

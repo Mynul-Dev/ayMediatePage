@@ -1,0 +1,22 @@
+
+.Title{
+    display: ruby;
+}
+.Title2 {
+  color: #e7e7e7;
+  font-size: 24px;
+  margin-left: 10px;
+
+}
+.Title1 {
+  color: #1d1d1d;
+  font-size: 40px;
+  
+}
+
+.MeditationMadeSimpleDescription {
+  color: #616161;
+  font-size: 20px;
+  padding-top: 40px;
+  /* padding-bottom: 36px; */
+}

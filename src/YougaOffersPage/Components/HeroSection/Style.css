@@ -1,0 +1,49 @@
+.react-player__preview {
+  width: fit-content !important;
+}
+.ReactPlayer {
+  width: fit-content !important;
+}
+
+.titleHero {
+  color: #000000;
+  font-size: 20px;
+}
+
+.nameBharat {
+  color: #fb4e73;
+  font-size: 40px;
+}
+.shortdescription {
+  color: #000000;
+  font-size: 24px;
+}
+.sessiontimes {
+  color: #dedede;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.sessionPlatform {
+  color: #000000;
+  font-size: 24px;
+  margin-bottom: 0px;
+}
+.session {
+  color: #fb4e73;
+  display: flex;
+}
+.time {
+  color: #000000;
+  font-size: 20px;
+}
+.titleprice {
+  background-color: #d9d9d9;
+}
+.pricing {
+  background-color: #f1f1f1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.PriceSection{
+    border-radius: 10px;
+}
